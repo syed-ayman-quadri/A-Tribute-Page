@@ -1,0 +1,44 @@
+#title {
+    color: #4a02c8;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: ;
+    font-style: italic;
+    text-decoration: underline;
+  }
+
+#img-div {
+    height: 400px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    position: static;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+#backcol {
+    background-image: linear-gradient(180deg, #a8ffeb, #fea4f3, #94ff94);
+}
+
+p {
+    font-size: 22px;
+}
+
+ol {
+    font-size: 22px;
+}
+
+#img-caption {
+    text-align: center;
+    border-top
+}
